@@ -1,0 +1,62 @@
+c:\users\oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\EjemploSAP1.exe.config
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\EjemploSAP1.exe
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\EjemploSAP1.pdb
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.Form1.resources
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.Properties.Resources.resources
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.csproj.GenerateResource.Cache
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.exe
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.pdb
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\csredis.dll
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\csredis.xml
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Oscar\documents\visual studio 2015\Projects\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.FrmConf.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.ValidarEtiqueta.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\Google.Protobuf.dll
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\MySql.Data.dll
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\Google.Protobuf.xml
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\EjemploSAP1\EjemploSAP1\bin\Debug\MySql.Data.xml
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\bin\Debug\EjemploSAP1.exe.config
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.exe
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.pdb
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\bin\Debug\EjemploSAP1.exe
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\bin\Debug\EjemploSAP1.pdb
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\bin\Debug\csredis.dll
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\bin\Debug\Google.Protobuf.dll
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\bin\Debug\MySql.Data.dll
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\bin\Debug\csredis.xml
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\bin\Debug\Google.Protobuf.xml
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\bin\Debug\MySql.Data.xml
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.Form1.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.FrmConf.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.Properties.Resources.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.ValidarEtiqueta.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.csproj.GenerateResource.Cache
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\bin\Debug\EjemploSAP1.exe.config
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.exe
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.pdb
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\bin\Debug\EjemploSAP1.exe
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\bin\Debug\EjemploSAP1.pdb
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\bin\Debug\csredis.dll
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\bin\Debug\Google.Protobuf.dll
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\bin\Debug\MySql.Data.dll
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\bin\Debug\csredis.xml
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\bin\Debug\Google.Protobuf.xml
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\bin\Debug\MySql.Data.xml
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.Form1.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.FrmConf.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.Properties.Resources.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.ValidarEtiqueta.resources
+C:\Users\Oscar\Documents\Visual Studio 2015\Projects\tristone nueva app\codigo para entregar\EjemploSAP1\EjemploSAP1\obj\Debug\EjemploSAP1.csproj.GenerateResource.Cache
